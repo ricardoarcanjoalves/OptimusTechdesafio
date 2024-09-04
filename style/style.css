@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+@import url(cabecalho.css);
+@import url(sessao-um.css);
+@import url(sessao-dois.css);
+@import url(sessao-tres.css);
+@import url(sessao-quatro.css);
+@import url(sessao-cinco.css);
+@import url(rodape.css);
+
+:root{
+    --fonte-padrao: "Inter", sans-serif;
+    --cor-paragrafos: #667085;
+    --cor-vermelho: #8E2424;
+    --cor-titulos: #3A404E;
+    --cor-vermelho-fundo: rgb(142, 36, 36, 0.3);
+    --cor-vermelho-claro: rgb(195, 25, 25, 0.1);
+    --cor-clara: #F9FAFB;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+}
+
+body{
+    font-family: var(--fonte-padrao);
+}

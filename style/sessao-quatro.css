@@ -1,0 +1,30 @@
+.sessao-quatro-titulos{
+    font-size: 1.3rem;
+}
+
+.container-designer, .container-desenvolvedor{
+    margin: 0 auto;
+    max-width: 60%;
+}
+
+.sessao-quatro-subtitulos{
+    font-size: 1.10rem;
+    margin-bottom: 1.5rem;
+}
+
+.sessao-quatro-paragrafos{
+    font-size: 1rem;
+    color: var(--cor-paragrafos);
+}
+
+.salario{
+    display: flex;
+    gap: 3rem;
+}
+
+.product-designer, .UX-designer, .desenvolvimento-ios, .front-end, .back-end{
+    border: 2px solid #EAECF0;
+    padding: 1.5rem;
+    margin: 2rem 0;
+    border-radius: 12px;
+}

@@ -1,0 +1,22 @@
+.sessao-um{
+    text-align: center;
+    padding: 5rem 2rem;
+}
+
+.sessao-um-titulo{
+    font-size: 3rem;
+    margin: 2rem 0;
+}
+
+.sessao-um-paragrafo-um{
+    color: var(--cor-vermelho);
+    font-weight: bold;
+    font-size: 1rem;
+}
+
+.sessao-um-paragrafo-dois{
+    color: var(--cor-paragrafos);
+    font-size: 1.25rem;
+    max-width: 60%;
+    margin: 0 auto;
+}
